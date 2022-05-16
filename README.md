@@ -1,6 +1,6 @@
 # Lets Start
 
-Have a Look to the complete project https://proj-weather.netlify.app/
+<a href="https://proj-weather.netlify.app/">Have a Look </a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
