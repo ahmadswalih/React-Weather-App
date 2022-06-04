@@ -1,10 +1,10 @@
 # Lets Start
 
-# <a href="https://proj-weather.netlify.app/">Have a Look </a>
+## Have a Look  <a href="https://proj-weather.netlify.app/">Here</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The application uses API from the website https://openweathermap.org/
+The application uses API from the website <a href="https://openweathermap.org/">Openweather</a>
 
 ## Features
   - fully Responsive
